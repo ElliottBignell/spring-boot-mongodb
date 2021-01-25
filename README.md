@@ -1,6 +1,10 @@
-# spring-boot-mongodb
-This repository contains a Spring Boot example project for MongoDB.
+[![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app)
 
-For a code review of this repo, see my related [blog post](https://springframework.guru/3402-2/).
+[![codecov](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app)
 
-You can learn more about my courses [here](http://courses.springframework.guru/courses/) on my site.
+# spring5-mongo-recipe-app
+Recipe Application Using MongoDB
+
+This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
+
+You can learn about my Spring Framework 5 Online course [here.](http://courses.springframework.guru/p/spring-framework-5-begginer-to-guru/?product_id=363173)
